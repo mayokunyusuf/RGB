@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RGB</string>
+    <string name="pageTitle">Create an RGB Color</string>
+    <string name="pageDescription">Add two hexadecimal characters between 0-9, A-F or a-f without the \'#\' for each channel </string>
+    <string name="redChannel">Red Channel</string>
+    <string name="greenChannel">Green Channel</string>
+    <string name="blueChannel">Blue Channel</string>
+    <string name="pageButton">Create RGB Color</string>
+    <string name="displayText">Created color display panel</string>
+</resources>
